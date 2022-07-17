@@ -16,5 +16,5 @@ You will need the following things properly installed on your computer.
 * `yarn install`
 
 ## Running
-* `yarn start`
+* `yarn dev`
 * Visit your app at [https://localhost:3000](http://localhost:3000).
