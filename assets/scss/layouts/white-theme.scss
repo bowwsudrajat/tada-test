@@ -1,0 +1,62 @@
+.white-content {
+  background: #f2f7ff;
+  .navtop {
+    background-color: #fff;
+  }
+  .app {
+    background-color: #f2f7ff;
+    .home {
+      h1, span {
+        color: #141625;
+      }
+      .header {
+        .right {
+          .button {
+            span {
+              color: #fff;
+            }
+          }
+        }
+      }
+      .filter {
+        span {
+          color: #141625;
+        }
+      }
+      .invoice {
+        background-color: #fff;
+      }
+    }
+    .invoice-wrap {
+      .invoice-content {
+        background-color: #f2f7ff!important;
+        h1 {
+          color: #141625;
+        }
+      }
+      label {
+        color: #141625;
+      }
+      input, select {
+        background-color: #fff;
+        color: #1e2139;
+      }
+    }
+  }
+  .sidebar {
+    background-color: #fff;
+    .label-switch {
+      color: #131426;
+    }
+    .sidebar-item-bottom {
+      hr {
+        border-color: rgb(31, 33, 56, 0.3);
+      }
+    }
+  }
+  .invoice-view {
+    .nav-link {
+      color: #1e2139!important;
+    }
+  }
+}

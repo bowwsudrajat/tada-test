@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Invoice-invoiceId",
+    "path": "/Invoice/:invoiceId?",
+    "component": "E:\\\\tada-invoice-2\\\\pages\\\\Invoice\\\\_invoiceId.vue",
+    "chunkName": "pages/Invoice/_invoiceId",
+    "_name": "_0be3a278"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\tada-invoice-2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5ec07540"
+  }
+]

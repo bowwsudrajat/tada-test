@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
+
+// Layout
+@import "./layouts/main.scss";
+@import "./layouts/white-theme.scss";
+@import "./layouts/responsive.scss";
+@import "./layouts/visible.scss";

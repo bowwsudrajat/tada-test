@@ -1,0 +1,35 @@
+{
+  "BaseSwitch": {
+    "description": "Auto imported from components/BaseSwitch.vue"
+  },
+  "Invoice": {
+    "description": "Auto imported from components/Invoice.vue"
+  },
+  "InvoiceModal": {
+    "description": "Auto imported from components/InvoiceModal.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "Modal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "LayoutFormInvoices": {
+    "description": "Auto imported from components/Layout/FormInvoices.vue"
+  },
+  "LayoutMainContent": {
+    "description": "Auto imported from components/Layout/MainContent.vue"
+  },
+  "LayoutSidebarNav": {
+    "description": "Auto imported from components/Layout/SidebarNav.vue"
+  },
+  "LayoutStatusList": {
+    "description": "Auto imported from components/Layout/StatusList.vue"
+  }
+}
