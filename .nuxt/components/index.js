@@ -5,10 +5,7 @@ export { default as Loading } from '../..\\components\\Loading.vue'
 export { default as Modal } from '../..\\components\\Modal.vue'
 export { default as NuxtLogo } from '../..\\components\\NuxtLogo.vue'
 export { default as Tutorial } from '../..\\components\\Tutorial.vue'
-export { default as LayoutFormInvoices } from '../..\\components\\Layout\\FormInvoices.vue'
-export { default as LayoutMainContent } from '../..\\components\\Layout\\MainContent.vue'
 export { default as LayoutSidebarNav } from '../..\\components\\Layout\\SidebarNav.vue'
-export { default as LayoutStatusList } from '../..\\components\\Layout\\StatusList.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

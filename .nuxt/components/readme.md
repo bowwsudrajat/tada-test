@@ -13,7 +13,4 @@ You can directly use them in pages and other components without the need to impo
 - `<Modal>` | `<modal>` (components/Modal.vue)
 - `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
 - `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
-- `<LayoutFormInvoices>` | `<layout-form-invoices>` (components/Layout/FormInvoices.vue)
-- `<LayoutMainContent>` | `<layout-main-content>` (components/Layout/MainContent.vue)
 - `<LayoutSidebarNav>` | `<layout-sidebar-nav>` (components/Layout/SidebarNav.vue)
-- `<LayoutStatusList>` | `<layout-status-list>` (components/Layout/StatusList.vue)
