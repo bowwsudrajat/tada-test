@@ -3,12 +3,14 @@
     "name": "Invoice-invoiceId",
     "path": "/Invoice/:invoiceId?",
     "component": "E:\\\\tada-test\\\\pages\\\\Invoice\\\\_invoiceId.vue",
-    "chunkName": "pages/Invoice/_invoiceId"
+    "chunkName": "pages/Invoice/_invoiceId",
+    "_name": "_85ed2718"
   },
   {
     "name": "index",
     "path": "/",
     "component": "E:\\\\tada-test\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_78fbb710"
   }
 ]

@@ -1,11 +1,11 @@
-export { default as BaseSwitch } from '../..\\components\\BaseSwitch.vue'
-export { default as Invoice } from '../..\\components\\Invoice.vue'
-export { default as InvoiceModal } from '../..\\components\\InvoiceModal.vue'
-export { default as Loading } from '../..\\components\\Loading.vue'
-export { default as Modal } from '../..\\components\\Modal.vue'
-export { default as NuxtLogo } from '../..\\components\\NuxtLogo.vue'
-export { default as Tutorial } from '../..\\components\\Tutorial.vue'
-export { default as LayoutSidebarNav } from '../..\\components\\Layout\\SidebarNav.vue'
+export const BaseSwitch = () => import('../..\\components\\BaseSwitch.vue' /* webpackChunkName: "components/base-switch" */).then(c => wrapFunctional(c.default || c))
+export const Invoice = () => import('../..\\components\\Invoice.vue' /* webpackChunkName: "components/invoice" */).then(c => wrapFunctional(c.default || c))
+export const InvoiceModal = () => import('../..\\components\\InvoiceModal.vue' /* webpackChunkName: "components/invoice-modal" */).then(c => wrapFunctional(c.default || c))
+export const Loading = () => import('../..\\components\\Loading.vue' /* webpackChunkName: "components/loading" */).then(c => wrapFunctional(c.default || c))
+export const Modal = () => import('../..\\components\\Modal.vue' /* webpackChunkName: "components/modal" */).then(c => wrapFunctional(c.default || c))
+export const NuxtLogo = () => import('../..\\components\\NuxtLogo.vue' /* webpackChunkName: "components/nuxt-logo" */).then(c => wrapFunctional(c.default || c))
+export const Tutorial = () => import('../..\\components\\Tutorial.vue' /* webpackChunkName: "components/tutorial" */).then(c => wrapFunctional(c.default || c))
+export const LayoutSidebarNav = () => import('../..\\components\\Layout\\SidebarNav.vue' /* webpackChunkName: "components/layout-sidebar-nav" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
